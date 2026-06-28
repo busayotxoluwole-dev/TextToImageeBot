@@ -1,0 +1,5 @@
+python-telegram-bot
+# Add specific library for your chosen AI API, e.g.:
+# google-generativeai  # for Gemini
+# openai               # for OpenAI
+# aiohttp              # for Kandinsky
